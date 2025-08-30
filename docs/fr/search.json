@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Chargé de cours - STT1000 Statistique I - A25"
+  },
+  {
+    "objectID": "teaching.html#université-du-québec-à-montréal-uqàm-1",
+    "href": "teaching.html#université-du-québec-à-montréal-uqàm-1",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Chargé de cours - STT1000 Statistique I - A25"
+  },
+  {
+    "objectID": "teaching.html#ecole-nationale-de-la-statistique-et-de-lanalyse-de-linformation-ensai-1",
+    "href": "teaching.html#ecole-nationale-de-la-statistique-et-de-lanalyse-de-linformation-ensai-1",
+    "title": "Marouane IL IDRISSI",
+    "section": "Ecole Nationale de la Statistique et de l’Analyse de l’Information (ENSAI)",
+    "text": "Ecole Nationale de la Statistique et de l’Analyse de l’Information (ENSAI)\n\nAuxiliaire d’enseignement pour S. El Kolei - Inférence Statistique - 2022 2023"
+  },
+  {
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Hasnae El Hakkaoui - Analyse de sensibilité des modèles de tarification en assurance IARD\nUniversité Laval avec Marie-Pier Côté - 2024-2026"
+  },
+  {
+    "objectID": "students.html#maîtrise",
+    "href": "students.html#maîtrise",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Hasnae El Hakkaoui - Analyse de sensibilité des modèles de tarification en assurance IARD\nUniversité Laval avec Marie-Pier Côté - 2024-2026"
+  },
+  {
+    "objectID": "students.html#stages",
+    "href": "students.html#stages",
+    "title": "Marouane IL IDRISSI",
+    "section": "Stages",
+    "text": "Stages\n Hasnae El Hakkaoui (3 months) - Analyse de sensibilité des modèles de tarification en assurance IARD\nUniversité Laval avec Marie-Pier Côté - 2025 \n Lucas Offroy (3 months) - Interprétabilité des modèles boîtes-noires, aspects computationels\nUniversité du Québec à Montréal avec Arthur Charpentier - 2025 \n Margot Herin (6 months) - Valeurs proportionelles marginale pour l’analyse de sensibilité globale\nEDF R&D avec Vincent Chabridon et Bertrand Iooss - 2021"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "L. Clouvel, B. Iooss, V. Chabridon, M. Il Idrissi, F. Robin (2025). An overview of variance-based importance measures in the linear regression context: comparative analyses and numerical tests. Socio-Environmental Systems Modelling, 7, pp.18681-18681\ndoi hal \n\n\nBiBTeX entry\n\n@article{doi:10.18174/sesmo.18681,  \n   author = {Clouvel, Laura and Iooss, Bertrand and Chabridon, Vincent and Il Idrissi, Marouane and Robin, Frédérique},   \n   title={An overview of variance-based importance measures in the linear regression context: comparative analyses and numerical tests},  \n   journal={Socio-Environmental Systems Modelling},  \n   issn = {2663-3027},  \n   volume = {7},  \n   pages = {18681},  \n   year = {2025},  \n   doi = {10.18174/sesmo.18681},  \n   URL = {https://sesmo.org/article/view/18681},\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2025). Hoeffding decomposition of functions of random dependent variables. Journal of Multivariate Analysis, 208, pp. 105444\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1016/j.jmva.2025.105444,\n   author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n   title = {Hoeffding decomposition of functions of random dependent variables},\n   journal = {Journal of Multivariate Analysis},\n   issn = {0047-259X},\n   volume = {208},\n   pages = {105444},\n   year = {2025},\n   doi = {10.1016/j.jmva.2025.105444},\n   URL = {https://doi.org/10.1016/j.jmva.2025.105444},\n}\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2024). Quantile-constrained Wasserstein projections for robust interpretability of numerical and machine learning models. Electronic Journal of Statistics, 18:2, pp. 2721-2770\ndoi hal arxiv code \n\nBiBTeX entry\n@article{doi:10.1214/24-EJS2268,\n     author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n     title = {Quantile-constrained Wasserstein projections for robust interpretability of numerical and machine learning models}},\n     journal = {Electronic Journal of Statistics},\n     publisher = {Institute of Mathematical Statistics and Bernoulli Society},\n     volume = {18},\n     number = {2},\n     pages = {2721 -- 2770},\n     year = {2024},\n     doi = {10.1214/24-EJS2268},\n     URL = {https://doi.org/10.1214/24-EJS2268}\n}\n}\n\n\nM. Herin, M. Il Idrissi, V. Chabridon, B. Iooss (2024). Proportional marginal effects for global sensitivity analysis. SIAM/ASA Journal on Uncertainty Quantification, 12:2, pp. 667-692\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1137/22M153032X,\n     author = {Herin, Margot and Il Idrissi, Marouane and Chabridon, Vincent and Iooss, Bertrand},\n     title = {Proportional Marginal Effects for Global Sensitivity Analysis},\n     journal = {SIAM/ASA Journal on Uncertainty Quantification},\n     volume = {12},\n     number = {2},\n     pages = {667-692},\n     year = {2024},\n     doi = {10.1137/22M153032X},\n     URL = {https://doi.org/10.1137/22M153032X}\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2023). On the coalitional decomposition of parameters of interest. Comptes Rendus. Mathématique, Tome 361, pp. 1653-1662\ndoi hal arxiv\n\n\n\nBiBTeX entry\n\n@article{doi:10.5802/crmath.521,\n     author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n     title = {On the coalitional decomposition of parameters of interest},\n     journal = {Comptes Rendus. Mathématique},\n     publisher = {Académie des sciences, Paris},\n     volume = {361},\n     pages = {1653--1662},\n     year = {2023},\n     doi = {10.5802/crmath.521},\n     URL = {https://doi.org/10.5802/crmath.521}\n}\n\n\nM. Il Idrissi, V. Chabridon, B. Iooss (2021). Developments and applications of Shapley effects to reliability-oriented sensitivity analysis with correlated inputs. Socio-Environmental Systems Modelling, 7, pp.18681-18681\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1016/j.envsoft.2021.105115,\n     author = {Il Idrissi, Marouane and Chabridon, Vincent and Iooss, Bertrand},\n     title = {Developments and applications of Shapley effects to reliability-oriented sensitivity analysis with correlated inputs},\n     journal = {Environmental Modelling & Software},\n     volume = {143},\n     pages = {105115},\n     year = {2021},\n     issn = {1364-8152},\n     doi = {10.1016/j.envsoft.2021.105115},\n     URL = {https://doi.org/10.1016/j.envsoft.2021.105115}\n}"
+  },
+  {
+    "objectID": "pubs.html#articles-de-journaux",
+    "href": "pubs.html#articles-de-journaux",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "L. Clouvel, B. Iooss, V. Chabridon, M. Il Idrissi, F. Robin (2025). An overview of variance-based importance measures in the linear regression context: comparative analyses and numerical tests. Socio-Environmental Systems Modelling, 7, pp.18681-18681\ndoi hal \n\n\nBiBTeX entry\n\n@article{doi:10.18174/sesmo.18681,  \n   author = {Clouvel, Laura and Iooss, Bertrand and Chabridon, Vincent and Il Idrissi, Marouane and Robin, Frédérique},   \n   title={An overview of variance-based importance measures in the linear regression context: comparative analyses and numerical tests},  \n   journal={Socio-Environmental Systems Modelling},  \n   issn = {2663-3027},  \n   volume = {7},  \n   pages = {18681},  \n   year = {2025},  \n   doi = {10.18174/sesmo.18681},  \n   URL = {https://sesmo.org/article/view/18681},\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2025). Hoeffding decomposition of functions of random dependent variables. Journal of Multivariate Analysis, 208, pp. 105444\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1016/j.jmva.2025.105444,\n   author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n   title = {Hoeffding decomposition of functions of random dependent variables},\n   journal = {Journal of Multivariate Analysis},\n   issn = {0047-259X},\n   volume = {208},\n   pages = {105444},\n   year = {2025},\n   doi = {10.1016/j.jmva.2025.105444},\n   URL = {https://doi.org/10.1016/j.jmva.2025.105444},\n}\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2024). Quantile-constrained Wasserstein projections for robust interpretability of numerical and machine learning models. Electronic Journal of Statistics, 18:2, pp. 2721-2770\ndoi hal arxiv code \n\nBiBTeX entry\n@article{doi:10.1214/24-EJS2268,\n     author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n     title = {Quantile-constrained Wasserstein projections for robust interpretability of numerical and machine learning models}},\n     journal = {Electronic Journal of Statistics},\n     publisher = {Institute of Mathematical Statistics and Bernoulli Society},\n     volume = {18},\n     number = {2},\n     pages = {2721 -- 2770},\n     year = {2024},\n     doi = {10.1214/24-EJS2268},\n     URL = {https://doi.org/10.1214/24-EJS2268}\n}\n}\n\n\nM. Herin, M. Il Idrissi, V. Chabridon, B. Iooss (2024). Proportional marginal effects for global sensitivity analysis. SIAM/ASA Journal on Uncertainty Quantification, 12:2, pp. 667-692\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1137/22M153032X,\n     author = {Herin, Margot and Il Idrissi, Marouane and Chabridon, Vincent and Iooss, Bertrand},\n     title = {Proportional Marginal Effects for Global Sensitivity Analysis},\n     journal = {SIAM/ASA Journal on Uncertainty Quantification},\n     volume = {12},\n     number = {2},\n     pages = {667-692},\n     year = {2024},\n     doi = {10.1137/22M153032X},\n     URL = {https://doi.org/10.1137/22M153032X}\n}\n\n\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2023). On the coalitional decomposition of parameters of interest. Comptes Rendus. Mathématique, Tome 361, pp. 1653-1662\ndoi hal arxiv\n\n\n\nBiBTeX entry\n\n@article{doi:10.5802/crmath.521,\n     author = {Il Idrissi, Marouane and Bousquet, Nicolas and Gamboa, Fabrice and Iooss, Bertrand and Loubes, Jean-Michel},\n     title = {On the coalitional decomposition of parameters of interest},\n     journal = {Comptes Rendus. Mathématique},\n     publisher = {Académie des sciences, Paris},\n     volume = {361},\n     pages = {1653--1662},\n     year = {2023},\n     doi = {10.5802/crmath.521},\n     URL = {https://doi.org/10.5802/crmath.521}\n}\n\n\nM. Il Idrissi, V. Chabridon, B. Iooss (2021). Developments and applications of Shapley effects to reliability-oriented sensitivity analysis with correlated inputs. Socio-Environmental Systems Modelling, 7, pp.18681-18681\ndoi hal arxiv code \n\n\nBiBTeX entry\n\n@article{doi:10.1016/j.envsoft.2021.105115,\n     author = {Il Idrissi, Marouane and Chabridon, Vincent and Iooss, Bertrand},\n     title = {Developments and applications of Shapley effects to reliability-oriented sensitivity analysis with correlated inputs},\n     journal = {Environmental Modelling & Software},\n     volume = {143},\n     pages = {105115},\n     year = {2021},\n     issn = {1364-8152},\n     doi = {10.1016/j.envsoft.2021.105115},\n     URL = {https://doi.org/10.1016/j.envsoft.2021.105115}\n}"
+  },
+  {
+    "objectID": "pubs.html#articles-de-conférence",
+    "href": "pubs.html#articles-de-conférence",
+    "title": "Marouane IL IDRISSI",
+    "section": "Articles de conférence",
+    "text": "Articles de conférence\n\nM. Il Idrissi, A. Fernandes Machado, A. Charpentier (2025). Beyond Shapley Values: Cooperative Games for the Interpretation of Machine Learning Models. IJCAI’25 - Workshop on XAI\nproceedings hal arxiv\nM. Il Idrissi, N. Bousquet, F. Gamboa, B. Iooss, J-M. Loubes (2022). Projection de mesures de probabilité sous contraintes de quantile par distance de Wasserstein et approximation monotone polynomiale. 53èmes Journées de Statistique de la Société Française de Statistique\nproceedings hal\nM. Il Idrissi, B. Iooss, V. Chabridon (2021). Mesures d’importance relative par décomposition de la performance de modèles de régression. 52èmes Journées de Statistique de la Société Française de Statistique\nproceedings hal"
+  },
+  {
+    "objectID": "pubs.html#pré-publications",
+    "href": "pubs.html#pré-publications",
+    "title": "Marouane IL IDRISSI",
+    "section": "Pré-publications",
+    "text": "Pré-publications\n\nM. Il Idrissi, A. Fernandes Machado, E. Gallic, A. Charpentier. Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals.\nhal arxiv\nA. Foucault, M. Il Idrissi, B. Iooss, S. Ancelet. Shapley effects and proportional marginal effects for global sensitivity analysis: application to computed tomography scan organ dose estimation.\nhal arxiv"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Bio\nJe suis Chercheur Postdoctoral affilié au Département de Mathématiques de l’Université du Québec à Montréal et à l’Institut Intelligence et Données de l’Université Laval, et Chercheur Associé à l’Obvia\nJe fais partie des équipes d’Arthur Charpentier et de Marie-Pier Côté\nJ’ai obtenu mon Doctorat en Mathématiques Appliquées de l’Université de Toulouse en collaboration avec EDF R&D et supervisé par Jean-Michel Loubes, Fabrice Gamboa, Nicolas Bousquet et Bertrand Iooss\nJe m’intéresse à tous les aspects de l’interprétabilité en apprentissage automatique et particulièrement aux modèles non-linéaires avec covariables dépendantes\n\nApprentissage statistique • XAI • Quantification de l’incertitude • Analyse de sensibilité • Théorie des probabilités • Théorie des jeux coopératifs • Analyse fonctionnelle\n\n\n\n\nStudents\nDeux opportunités de stage (Éte 2026): MITACS Globalink\nKeyword search: interpretability / Faculty Province: Québec / Faculty University: Université du Québec à Montréal\n\n\n\nNews\n 07/11/25 - Présentation au Dalhousie Statistics Seminar\n16-17/10/25 - Organisation de la session IA Explicable à MobiliT.AI’25\n14/09/25 - Présentation au Séminaire de l’IRIT-UT Capitole\n07/10/25 - Présentation au Séminaire d’économétrie de l’AMSE\n09/09/25 - Présentation au CANSSI Québec Postdoc Day\n01/09/25 - Début officiel de ma Bourse Postdoctorale Distinguée de l’INCASS\n17/08/25 - Présentation au XAI Workshop de l’IJCAI’25"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Page en construction"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Page en construction"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Beyond Shapley Values: Cooperative Games for the Interpretation of Machine Learning Models\nIJCAI’25 - Workshop on XAI, Montréal QC, Canada - August 2025\nvenue paper slides\nRobustness assessment of black-box models to feature perturbations\nMontréal - Guanajuato Workshop on Probability and Machine Learning, Guanajuato, México - February 2025\nvenue slides\nHoeffding’s functional decomposition for dependent inputs\nCRM Conference on New Developments in Probability, Montréal QC, Canada - September 2024\nvenue slides\nCooperative game theory and importance quantification\nENBIS Spring Meeting, Dortmund, Germany - May 2024\nvenue slides\nAvancées en décomposition de modèles boîtes-noires\nSINCLAIR Workshop, Saclay, France - March 2024\nvenue slides\nHoeffding decomposition revisited\nSIAM Conference on Uncertainty Quantification, Trieste, Italy - March 2024\nvenue slides\nCooperative game theory and importance quantification\n23rd European Young Statisticians Meeting, Ljubljana, Slovenia - September 2023\nvenue abstract slides video\nProportional marginal effects to quantify feature importance\nForum MobiliT.AI’23, Toulouse, France - May 2023\nvenue slides video\nCoalitional decomposition of quantities of interest\n2023 Annual Meeting of the MASCOT-NUM Research Group, Le Croisic, France - April 2023\nvenue abstract slides\nRobustness assessment of black-box models\nSINCLAIR Workshop, Saclay, France - June 2022\nvenue slides\nProjection de mesures de probabilité sous contraintes de quantile par distance de Wasserstein et approximation monotone polynomiale\n53èmes Journées de Statistiques de la Société Française de Statistique, Lyon, France - June 2022\nvenue paper slides\nRobustness assessment of black-box models using quantile-constrained Wasserstein projections\n2022 Annual Meeting of the MASCOT-NUM Research Group, Clermont-Ferrand, France - June 2022\nvenue abstract poster\nShapley effects for reliability-oriented sensitivity analysis with correlated inputs\n10th International Conference on Sensitivity Analysis of Model Output, Tallahassee, Florida, USA - March 2022\nvenue abstract poster\nMesures d’importance relative par décompositions de la performance de modèles de régression\n52èmes Journées de Statistiques de la Société Française de Statistique, Nice, France - June 2021\nvenue paper slides"
+  },
+  {
+    "objectID": "talks.html#conférences-et-ateliers",
+    "href": "talks.html#conférences-et-ateliers",
+    "title": "Marouane IL IDRISSI",
+    "section": "",
+    "text": "Beyond Shapley Values: Cooperative Games for the Interpretation of Machine Learning Models\nIJCAI’25 - Workshop on XAI, Montréal QC, Canada - August 2025\nvenue paper slides\nRobustness assessment of black-box models to feature perturbations\nMontréal - Guanajuato Workshop on Probability and Machine Learning, Guanajuato, México - February 2025\nvenue slides\nHoeffding’s functional decomposition for dependent inputs\nCRM Conference on New Developments in Probability, Montréal QC, Canada - September 2024\nvenue slides\nCooperative game theory and importance quantification\nENBIS Spring Meeting, Dortmund, Germany - May 2024\nvenue slides\nAvancées en décomposition de modèles boîtes-noires\nSINCLAIR Workshop, Saclay, France - March 2024\nvenue slides\nHoeffding decomposition revisited\nSIAM Conference on Uncertainty Quantification, Trieste, Italy - March 2024\nvenue slides\nCooperative game theory and importance quantification\n23rd European Young Statisticians Meeting, Ljubljana, Slovenia - September 2023\nvenue abstract slides video\nProportional marginal effects to quantify feature importance\nForum MobiliT.AI’23, Toulouse, France - May 2023\nvenue slides video\nCoalitional decomposition of quantities of interest\n2023 Annual Meeting of the MASCOT-NUM Research Group, Le Croisic, France - April 2023\nvenue abstract slides\nRobustness assessment of black-box models\nSINCLAIR Workshop, Saclay, France - June 2022\nvenue slides\nProjection de mesures de probabilité sous contraintes de quantile par distance de Wasserstein et approximation monotone polynomiale\n53èmes Journées de Statistiques de la Société Française de Statistique, Lyon, France - June 2022\nvenue paper slides\nRobustness assessment of black-box models using quantile-constrained Wasserstein projections\n2022 Annual Meeting of the MASCOT-NUM Research Group, Clermont-Ferrand, France - June 2022\nvenue abstract poster\nShapley effects for reliability-oriented sensitivity analysis with correlated inputs\n10th International Conference on Sensitivity Analysis of Model Output, Tallahassee, Florida, USA - March 2022\nvenue abstract poster\nMesures d’importance relative par décompositions de la performance de modèles de régression\n52èmes Journées de Statistiques de la Société Française de Statistique, Nice, France - June 2021\nvenue paper slides"
+  },
+  {
+    "objectID": "talks.html#invitations-en-séminaires",
+    "href": "talks.html#invitations-en-séminaires",
+    "title": "Marouane IL IDRISSI",
+    "section": "Invitations en séminaires",
+    "text": "Invitations en séminaires\nInterprétabilité des modèles boîtes-noires avec variables dépendantes\nSTATQAM Seminar, Montréal QC, Canada - October 2024\nseminar slides\nSobol’ indices, Shapley effects, and a path towards handling dependent inputs\nSensitivity Analysis Discord Group, Online - September 2024\nseminar slides video\nGeneralized Hoeffding decomposition and the linear nature of non-linearities\nCRM-ISM Probability Seminar, Montréal QC, Canada - September 2024\nseminar slides\nGeneralized Hoeffding decomposition and the linear nature of non-linearity\nUQSay Seminar #69, Online - February 2024\nseminar slides\nInterpretability of black-box models\nQuantact Seminar, Montréal QC, Canada - February 2024\nseminar slides"
+  },
+  {
+    "objectID": "talks.html#enseignement-professionnel-et-écoles-thématiques",
+    "href": "talks.html#enseignement-professionnel-et-écoles-thématiques",
+    "title": "Marouane IL IDRISSI",
+    "section": "Enseignement professionnel et écoles thématiques",
+    "text": "Enseignement professionnel et écoles thématiques\nBlack-box model decomposition with dependent random inputs\nÉcole Thématique sur les Incertitudes en Calcul Scientifique, Cap Ferret, France - October 2023\nvenue slides\nRobustness assessment of black-box models\nÉcole Thématique sur les Incertitudes en Calcul Scientifique, Corsica, France - October 2022\nvenue slides\nSolutions à la Shapley pour l’analyse de sensibilité avec entrées dépendantes\nJournées thématiques MEXICO, Lyon, France - May 2022\nvenue slides tutorial\nCooperative Game Theory and Global Sensitivity Analysis\nÉcole Thématique sur les Incertitudes en Calcul Scientifique, Erdeven, France - September 2021\nvenue slides"
+  },
+  {
+    "objectID": "talks.html#présentations-à-lindustrie",
+    "href": "talks.html#présentations-à-lindustrie",
+    "title": "Marouane IL IDRISSI",
+    "section": "Présentations à l’industrie",
+    "text": "Présentations à l’industrie\nRobustesse et interprétabilité des modèles boîtes-noires\nNexialog Consulting Webinar, Online - January 2024\nwebsite slides video\nInterpretability of black-box models\nMAIF’s Data Science Fridays, Niort, France - December 2022\nseminar slides"
+  }
+]
